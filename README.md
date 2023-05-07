@@ -1,5 +1,4 @@
-# aiprompt
-ChatGPT Next Web makes prompt
+# AI 提示
+### 该项目主要研究发布ai prompt
 
-1.所有ts文件格式都是基于yda的项目
-2.cn.ts包含所有prompt，直接覆盖即可。
+⤷ 测试使用的平台来自yda的chat-gpt-next-web，cn.ts文件可直接覆盖使用，其他项目自行修改使用。
